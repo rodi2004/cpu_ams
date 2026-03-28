@@ -1,4 +1,4 @@
 # cpu_ams
 Academic Management System For Cordoba Private University
-#Notes
+# Notes
 This Project is for Cordoba Private University Only
